@@ -1,5 +1,7 @@
 # Titanic
 Repo for solve Titanic (kaggle) problem
+Тестовый комит
+
 
 ## main.py 
 This is main solution file
